@@ -32,13 +32,21 @@ This is a tutorial on how to install Project ModMonkes.
 > If That Doesn't work, Click this or Copy Past it.
 > https://sidequestvr.com/setup-howto
 >
->
+> 
 > Follow the steps to Connect Your Meta Quest To SideQuest on your PC, then come back to this tutorial. This is a tutorial on how to connect:
 > [Use This link!](https://youtu.be/wNku19Hl9Dw?si=lNylDgazmNU8w8pd&t=118)
 >
 > Or use this:
 > https://youtu.be/wNku19Hl9Dw?si=lNylDgazmNU8w8pd&t=118
 
+>[!CAUTION]
+> If you are Having **_Any_** troubles with connecting Sidequest, Please follow this tutorial:
+>
+> 
+>
+> [Go to 'SideQuest Problems'](https://github.com/kaylanpro5662/Project-Modmonkes/blob/main/README.md#sidequest-problems)
+>
+> Or use This: https://github.com/kaylanpro5662/Project-Modmonkes/blob/main/README.md#sidequest-problems
 
 
 ## After Installing Sidequest, Follow the steps:
@@ -48,17 +56,18 @@ This is a tutorial on how to install Project ModMonkes.
 3.  Save the File in a place you will know.
 4.  Go back to sidequest and click on the 'Add APK' or the bok with a down arrow and navigate to where you saved the apk file.
 
- 
 
- 
 
- 
+
 
 # PCVR Download
 yap yap
 
+ 
 
+ 
 
+# SideQuest Problems:
 # <!-- This is the Heading. -->
 
 ### Thank You.
