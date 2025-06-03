@@ -17,7 +17,8 @@ This is Project ModMonkes, a copy of the Game 'Gorilla Tag'. However, this comes
 > 
 >
 >
-> [Meta Quest Download](https://github.com/kaylanpro5662/Project-Modmonkes/edit/main/README.md#meta-quest-download) <!-- This is the Meta Quest Download. -->
+> [Meta Quest Download](https://github.com/kaylanpro5662/Project-Modmonkes/edit/main/README.md#meta-quest-download)
+) <!-- This is the Meta Quest Download. -->
 >
 > [PCVR Download](https://github.com/kaylanpro5662/Project-Modmonkes/edit/main/README.md#pcvr-download) <!-- This is The PCVR Downlaod. -->
 
